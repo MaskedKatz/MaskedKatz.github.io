@@ -1,0 +1,11 @@
+-section 1: welcome-
+About Me
+Contact Me
+
+-section 2: media-
+Art Stuff
+Youtube Stuff
+
+-section 3: tabletop-
+D&D stuff
+MTG stuff
