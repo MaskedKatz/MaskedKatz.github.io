@@ -9,3 +9,14 @@ Youtube Stuff
 -section 3: tabletop-
 D&D stuff
 MTG stuff
+
+
+
+to-do
+-----
+dnd:
+-
+update dnd characters
+fix image size - dither
+
+new layout
