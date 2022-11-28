@@ -1,0 +1,86 @@
+.center_header {
+  width: 25%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.header {
+  padding: 25px;
+  text-align: center;
+  background: #010000;
+}
+
+.reddit_icon {
+  background-image: url('./assets/reddit1.png');
+   height: 229px;
+   width: 243px;
+}
+
+.reddit_icon:hover {
+   background-image: url('./assets/reddit2.png');
+   height: 229px;
+   width: 243px;
+}
+
+.twitter_icon {
+  background-image: url('./assets/twitter1.png');
+   height: 229px;
+   width: 243px;
+}
+
+.twitter_icon:hover {
+   background-image: url('./assets/twitter2.png');
+   height: 229px;
+   width: 243px;
+}
+
+.aboutus_icon {
+  background-image: url('./assets/button1.png');
+  vertical-align: 125%;
+   height: 100px;
+   width: 160px;
+}
+
+.aboutus_icon:hover {
+   background-image: url('./assets/button1.png');
+   height: 100px;
+   width: 160px;
+}
+
+.profile_icon {
+  background-image: url('./assets/button3.png');
+  vertical-align: 125%;
+   height: 100px;
+   width: 160px;
+}
+
+.profile_icon:hover {
+   background-image: url('./assets/button3.png');
+   height: 100px;
+   width: 160px;
+}
+
+.inkling {
+	text-align:center;
+	vertical-align: 125%;
+	height: 400px;
+	width: 500px;
+}
+
+#images{
+    text-align:center;
+}
+
+<style>
+      @font-face { font-family: paintball; src: url('./assets/Paintball_Beta_4a.otf'); } 
+      h1, p, li, a {
+         font-family: Paintball
+		 
+	a { text-decoration: none; } 
+      }
+</style>
